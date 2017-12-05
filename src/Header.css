@@ -1,0 +1,21 @@
+
+.Header {
+  border-bottom: 1px solid #ccc;
+}
+
+.Header-nav {
+  padding: 1em 1em;
+}
+
+.Header-nav > a {
+  display: inline-block;
+  margin-right: 1em;
+}
+
+.Header-right {
+  padding: 0.5em 1em;
+}
+
+.Header-nav > a.is-active {
+  color: #000;
+}
